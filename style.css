@@ -11,3 +11,6 @@
 .screenshot-grid figcaption strong{font-size:18px;color:#f0f3fa}
 .screenshot-grid figcaption span{font-size:15px;color:var(--screenshot-muted)}
 @media(max-width:600px){.screenshot-grid{grid-template-columns:1fr;gap:20px}}
+.legal-notice{margin:-24px 0 48px;padding:20px 24px;border:1px solid #3c485d;border-left:4px solid #ff963f;border-radius:10px;background:#1a2130}
+.legal-notice h2{margin:0 0 10px;font-size:20px;line-height:1.4}
+.legal-notice p{margin:0}
